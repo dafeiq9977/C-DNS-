@@ -1,0 +1,2 @@
+126.com MX IN 86400 100 126mxoo.mxmail.netease.com 
+127.com MX IN 86400 100 127mxoo.mxmail.netease.com 

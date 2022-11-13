@@ -1,0 +1,7 @@
+csdn.com NS.csdn.com 127.0.0.8 
+ietf.org NS.ietf.org 127.0.0.9 
+com NS.com 127.0.0.6 
+org NS.org 127.0.0.7 
+cn NS.cn 127.0.0.4 
+us NS.us 127.0.0.5 
+arpa NS.in-addr.arpa 127.0.0.12 

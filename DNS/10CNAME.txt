@@ -1,0 +1,1 @@
+bupt.edu.cn CNAME IN 86400 a.bupt.edu.cn 
